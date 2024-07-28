@@ -37,6 +37,7 @@ See the section about [deployment](https://www.geeksforgeeks.org/deployment-of-r
 
 Check this branch https://github.com/vaishaligupta28/DAPP_Job-Portal_Smart-Contract/tree/gh-pages for the deployment workflow. Once workflow is complete, access the app below 
 
+## Demo App
 [Job Portal Smart Contract Dapp Demo](https://vaishaligupta28.github.io/DAPP_Job-Portal_Smart-Contract/)
 
 ## Learn More
