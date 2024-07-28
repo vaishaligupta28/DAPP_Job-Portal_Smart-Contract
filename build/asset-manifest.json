@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DAPP_Job-Portal_Smart-Contract/static/css/main.9d31b838.css",
+    "main.js": "/DAPP_Job-Portal_Smart-Contract/static/js/main.f0d41d4d.js",
+    "index.html": "/DAPP_Job-Portal_Smart-Contract/index.html",
+    "main.9d31b838.css.map": "/DAPP_Job-Portal_Smart-Contract/static/css/main.9d31b838.css.map",
+    "main.f0d41d4d.js.map": "/DAPP_Job-Portal_Smart-Contract/static/js/main.f0d41d4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d31b838.css",
+    "static/js/main.f0d41d4d.js"
+  ]
+}
