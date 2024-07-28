@@ -40,9 +40,6 @@ Check this branch https://github.com/vaishaligupta28/DAPP_Job-Portal_Smart-Contr
 ## Demo App
 [Job Portal Smart Contract Dapp Demo](https://vaishaligupta28.github.io/DAPP_Job-Portal_Smart-Contract/)
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
 # References
 https://reetesh.in/blog/building-dapps-with-react-and-solidity-on-ethereum
+[Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
